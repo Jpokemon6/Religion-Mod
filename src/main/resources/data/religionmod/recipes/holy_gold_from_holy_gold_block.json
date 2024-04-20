@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "religionmod:holy_gold_block"
+    }
+  ],
+  "result": {
+    "item": "religionmod:holy_gold",
+    "count": 9
+  }
+}
