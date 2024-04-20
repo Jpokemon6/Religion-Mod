@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures" : {
+    "all": "religionmod:block/holy_iron_block"
+  }
+}

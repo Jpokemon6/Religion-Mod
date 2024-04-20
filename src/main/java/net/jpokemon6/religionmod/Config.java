@@ -1,4 +1,4 @@
-package net.jpokemon6.religionsmod;
+package net.jpokemon6.religionmod;
 
 import net.minecraft.resources.ResourceLocation;
 import net.minecraft.world.item.Item;

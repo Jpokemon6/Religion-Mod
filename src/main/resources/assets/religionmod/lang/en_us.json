@@ -1,0 +1,11 @@
+{
+  "item.religionmod.cross": "Cross",
+  "item.religionmod.holy_cross": "Holy Cross",
+  "item.religionmod.holy_gold": "Holy Gold Ingot",
+  "item.religionmod.holy_iron": "Holy Iron Ingot",
+
+  "block.religionmod.holy_gold_block": "Block of Holy Gold",
+  "block.religionmod.holy_iron_block": "Block of Holy Iron",
+
+  "creativetab.religion_tab": "Religion"
+}
